@@ -22,3 +22,11 @@ ro.com.google.clientidbase.am=android-tmobile-us
 ro.com.google.clientidbase.yt=android-samsung
 ro.com.google.clientidbase.gmm=android-samsung
 
+# hardware info
+ro.device.chipset=Samsung Exynos 4412 Quad
+ro.device.cpu=1.6 GHz quad-core Cortex-A9
+ro.device.gpu=ARM Mali-400MP
+ro.device.rear_cam=8 MP
+ro.device.front_cam=1.9 MP
+ro.device.screen_res=720x1280
+
